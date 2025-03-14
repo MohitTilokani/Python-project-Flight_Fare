@@ -2,7 +2,7 @@
 Machine learning techniques are used in this research to anticipate aircraft ticket costs.
 It predicts the fare by analyzing criteria such as airline, source, destination, date, and duration.
 
-# Tools & Technologies Used in This Project:
+### Tools & Technologies Used in This Project:
 1. Python: Used for data manipulation, analysis, and visualization.
 2. Pandas: To load, clean, and analyze the flight fare dataset.
 3. Matplotlib & Seaborn: For visualizing insights using charts and graphs.
